@@ -1,0 +1,57 @@
+.Foot{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto;
+    height:2000px;
+    padding:50px;
+    background-color: pink;
+    gap:25px;
+}
+.boy1{
+    background:rgb(0, 179, 255);
+    text-align:center;
+    color: orangered;
+    font-family: trebuchet ms;
+    font-size: 50px;
+    border-radius:25px;
+}
+.boy2{
+    background:rgb(0, 0, 0);
+    text-align: center;
+    color: orangered;
+    font-family: trebuchet ms;
+    font-size: 50px;
+    border-radius:25px;
+}
+.boy3{
+    background:orange;
+    text-align: center;
+    color: orangered;
+    font-family: trebuchet ms;
+    font-size: 50px;
+    border-radius:25px;
+}
+.boy4{
+    background:rgb(0, 255, 179);
+    text-align: center;
+    color: rgb(255, 0, 0);
+    font-family: trebuchet ms;
+    font-size: 50px;
+    border-radius:25px;
+}
+.boy5{
+    background:rgb(0, 255, 179);
+    text-align: center;
+    color: rgb(244, 114, 67);
+    font-family: trebuchet ms;
+    font-size: 50px;
+    border-radius:25px;
+}
+.boy6{
+    background:brown;
+    text-align: center;
+    color: orangered;
+    font-family: trebuchet ms;
+    font-size: 50px;
+    border-radius:25px;
+}
